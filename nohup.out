@@ -1,0 +1,5 @@
+bind: Permission denied at ./socketpolicy.pl line 42.
+Usage: ./a.out -h -nn  Options:n      -ntDon't fork off as a daemon.n      -htShow this help screen.nnbind: Permission denied at ./socketpolicy.pl line 42.
+bind: Permission denied at ./socketpolicy.pl line 42.
+[sudo] password for tj: 
+sudo: pam_authenticate: Conversation error
